@@ -4,26 +4,26 @@
 
 ---
 
-![github logo](https://csharpcorner.azureedge.net/article/git-and-github-version-control-local-and-remote-repository/Images/Git%20And%20Github%20Version%20Control.png) 
+![github](https://csharpcorner.azureedge.net/article/git-and-github-version-control-local-and-remote-repository/Images/Git%20And%20Github%20Version%20Control.png) 
 
 ##step 1
 the first step for a git flow is create a directory, and then clone in the repository, this do it in the terminal,  this is with the command 
 ``git clone + link of repository``
 
 
-![github logo](https://docs.github.com/assets/images/help/repository/https-url-clone.png) 
+![github clone](https://docs.github.com/assets/images/help/repository/https-url-clone.png) 
 
 ---
 ##step 2
  when create a repository in github must choose an license, we choose the license of MIT, also choose create a fille readme.md
 
-![github logo](https://fileinfo.es/images/file-format/md.png) 
+![readme](https://fileinfo.es/images/file-format/md.png) 
 
 ---
 ##step 3
 then create a branch in the repository with the name "develop", inside develop create other branch with some name, for example "01-git",for create a new branch is with the next command:
 ``git checkout -b 01-git ``
-![github logo](https://backlog.com/app/themes/backlog-child/assets/img/guides/git/collaboration/using_branches_001.png) 
+![branch from git](https://backlog.com/app/themes/backlog-child/assets/img/guides/git/collaboration/using_branches_001.png) 
 
 ---
 
@@ -49,7 +49,7 @@ then check the status with
 `` git status ``
 now we watching that have changes to be committed 
 
-![github logo](https://www.toolsqa.com/wp-content/gallery/git/git_status_untracked_file-1.png) 
+![status](https://www.toolsqa.com/wp-content/gallery/git/git_status_untracked_file-1.png) 
 the picture is a example
 ---
 ##step 9
@@ -82,7 +82,7 @@ now, do a push this is with the command
 `` git push origin 01-git``
 this must do from branch en where we are 
 
-![github logo](https://assets-global.website-files.com/5d514fd9493b0575f03520bd/5e2a15c9b3437b2c33018f6f_1*E1Ypr2GO9CVgbbqrguB2Qw.gif) 
+![push origin](https://assets-global.website-files.com/5d514fd9493b0575f03520bd/5e2a15c9b3437b2c33018f6f_1*E1Ypr2GO9CVgbbqrguB2Qw.gif) 
 
 
 ---
@@ -94,7 +94,7 @@ must write our account from github and our password
 then in git change from branch a develop, this is with the command
 `` git checkout develop``
 
-![github logo](https://static.javatpoint.com/tutorial/git/images/git-checkout.png) 
+![git checkout ](https://static.javatpoint.com/tutorial/git/images/git-checkout.png) 
 ---
 
 ##step 
@@ -121,7 +121,7 @@ in the server we have the change in develop
 
 ##step 
 when we do merge in develop must delete the branch in where did the first change 
-![github logo](https://developers.sap.com/tutorials/webide-github-merge-pull-request/_jcr_content.github-proxy.1608398416.file/p6_4.png) 
+![merge](https://developers.sap.com/tutorials/webide-github-merge-pull-request/_jcr_content.github-proxy.1608398416.file/p6_4.png) 
 ---
 
 ##step 
