@@ -123,15 +123,3 @@ then inside from terminal do a "pull", this with the command
 ``git pull origin develop  `` 
 ![github logo](https://64.media.tumblr.com/9fb0685ca9c513197d3be0f4fd186e12/tumblr_inline_ps7dd2ta811wthf4f_540.png) 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
