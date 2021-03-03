@@ -1,0 +1,53 @@
+.menu {
+  width: 100%;
+  float: right;
+  background: #0E145C;
+text-align: right;
+
+}
+
+.menu ul li {
+
+	display: inline-flex;
+  flex-direction: row;
+  list-style-type: none;
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function:ease;
+  trasition-delay: 0.85s;
+}
+
+li:hover {
+width: 200px;
+background-color: blue;
+
+}
+
+
+
+.menu ul li a {
+  padding: 30px;
+  height: 13px;
+  color: white;
+  text-transform: uppercase;
+
+
+
+}
+
+
+footer{
+  
+
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+
+  background: #0E145C;
+  padding: 30px;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+
