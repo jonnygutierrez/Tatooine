@@ -1,26 +1,36 @@
 .menu {
   width: 100%;
-  float: right;
-  background: #0E145C;
-text-align: right;
+  float: left;
+  background: #0A0E17;
+  text-align: left;
 
 }
 
+body {
+
+  background-color: #1E2B45;
+
+}
 .menu ul li {
 
 	display: inline-flex;
   flex-direction: row;
   list-style-type: none;
   transition-property: all;
-  transition-duration: 0.5s;
+  transition-duration: 0.47s;
   transition-timing-function:ease;
   trasition-delay: 0.85s;
+  width: 200px;
+
 }
 
-li:hover {
-width: 200px;
-background-color: blue;
+li:hover a {
 
+  width: 200px;
+  background-color: blue;
+  border-radius: 9%;
+  font-weight: bolder;
+  font-size: 17px;
 }
 
 
@@ -30,24 +40,116 @@ background-color: blue;
   height: 13px;
   color: white;
   text-transform: uppercase;
+  text-decoration: none;
+}
 
-
+.logo {
+  display: inline-flex;
+  width: 60px;
+  height: 60px;
+  padding-right: 20px;
+  padding-bottom: 2px
+  border-radius: 100%;
 
 }
 
+.ejemplos {
+  display: inline-flex;
+  width: 470px;
+  height: 400px;
+  padding: 20px;  
+  border-radius: 7%;
+}
 
-footer{
+
+
+.titulos {
+  background: #1925A8;
+  text-align: center;
+  font-size: 23px;
+  color: white;
+  border-radius: 15PX;
+  border-top: 15px;
+ text-transform: uppercase;
+}
+
+.caja {
+  display: flex;
+  justify-content: center;
+  float: none;
+
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+}
+ 
+.productos{
+  text-align: center;
+  font-weight: bolder;
+  height: 35px;
+}
+
+.cajas_productos{
+  border-color: #003761;
+  width: 500px;
+  height: 400px;
+  padding: 60px;
+  justify-content: space-between;
   
+}
 
-    position: absolute;
-  bottom: 0;
+.footer{
+  margin-top: 130px;
+  text-align: center;
+  background:#0A0E17 ;
   width: 100%;
   height: 20px;
-
-  background: #0E145C;
   padding: 30px;
   color: white;
-  text-transform: uppercase;
-  text-align: center;
+  bottom: 0px;
+}
+
+
+.slider {
+  width: 95%;
+  margin: auto;
+  overflow: hidden;
+
+}
+
+.slider ul {
+  display: flex;
+  padding: 0;
+  width: 400%;
+  animation: cambio 5s infinite alternate linear;
+}
+
+.slider li {
+  width: 100%;
+  list-style: none;
+  justify-content: center;
+}
+
+.slider img {
+  width: 700px;
+  height: 600px;
+
+}
+
+@keyframes cambio {
+  0% {margin-left: 0;}
+  20% {margin-left: 0;}
+  
+  25% {margin-left: -100%;}
+  45% {margin-left: -100%;}
+  
+  50% {margin-left: -200%;}
+  70% {margin-left: -200%;}
+  
+  75% {margin-left: -300%;}
+  100% {margin-left: -300%;}
 }
 
