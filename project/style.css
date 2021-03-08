@@ -1,28 +1,70 @@
 .menu {
+  display: inline-flex;
+  flex-direction: row;
   width: 100%;
   float: left;
   background: #0A0E17;
   text-align: left;
+  color: white; 
 }
+/* phone*/
+@media screen and (max-width: 480px) and (min-height: 640px){
+.menu ul li a{
+  display: inline-flex;
+ }
+.fondo .imagen_fondo{
+  width: 100%;
+  height: 300px;
+  border-radius: 1%;  
+}
+.caja .ejemplos {
+  display: inline-flex;
+  width: 100%;
+  height: 85%;
+  text-align: center;
+ 
+
+ }
+.caja{
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+ }
+
+
+
+
+
+
+}
+
+
 .menu ul li {
 	display: inline-flex;
   flex-direction: row;
   list-style-type: none;
   transition-property: all;
-  transition-duration: 0.47s;
+  transition-duration: 0.78s;
   transition-timing-function:ease;
-  trasition-delay: 0.85s;
+  trasition-delay: 0.5s;
   width: 200px;
+
 }
+
+
 li:hover a {
   width: 200px;
   background-color: #1F2626;
   border-radius: 9%;
   font-weight: bolder;
-  font-size: 19px;
-}
+  font-size: 17px;
 
-.menu ul li a {
+  transition-property: all;
+  transition-duration: 0.35s;
+  transition-timing-function:ease;
+  trasition-delay: 0.96s;
+}
+.menu ul a {
   padding: 30px;
   height: 13px;
   color: white;
@@ -30,13 +72,12 @@ li:hover a {
   text-decoration: none;
 }
 
-.logo {
+#login{
   display: inline-flex;
-  width: 60px;
-  height: 60px;
-  padding-right: 20px;
-  padding-bottom: 2px;
-  padding-top: 5px;
+  color: white;
+  float: right;
+  font-size: 20px;
+  padding-top: 19px;
 
 }
 
@@ -70,7 +111,18 @@ li {
   padding: 5px;
 
 }
+
+.titulo{
+  display: flex;
+  padding: 30px;
+  text-align: center;
+  justify-content: center;
+  padding-bottom: 5px;
+}
+
+
 .titulos {
+  padding-bottom: 5px;
   padding: 13px;
   background: #0A0E17;
   text-align: center;
@@ -86,10 +138,10 @@ li {
   display: flex;
   justify-content: center;
   float: none;
-  padding: 35px;
   font-size: 20px;
   color: white;
-
+margin-top: 20px;
+margin-bottom:70px;
 }
 
 .text {
@@ -99,11 +151,15 @@ li {
 }
  
 .productos{
+  display: flex;
   text-align: center;
   font-weight: bolder;
   height: 35px;
-  padding-bottom: 1px;
-  padding-top: 25px;
+  padding-bottom: 20px;
+  padding-top: 40px;
+  justify-content:center;
+
+
 }
 
 .cajas_productos{
@@ -118,26 +174,36 @@ li {
 }
 
 
+/* FOOTER */
 .footer{
-  margin-top: 130px;
-  text-align: center;
-  background:#0A0E17 ;
+  padding-top: 130px;
+  display: block;
+  margin-top: 200px;
+  background:#0A0E17;
   width: 100%;
   height: 20px;
   padding: 30px;
   color: white;
-  bottom: 0px;
-
+  text-align: center;
 
 }
 
+.footer p{
+  display: block;
+ text-align: center;
+ justify-content: center;
+}
+
+/* contacts */
 
 .contacts{
+  display: flex;
   padding-top: 50px;
   padding-bottom: 20px;
   font-size: 20px;
   text-align: center;
   color: white;
+  justify-content: center;
 }
 
 
@@ -146,7 +212,8 @@ li {
   width: 40%;
   height: 150px;
   border-radius: 22%;
-  
+  padding-bottom:50px;
+  padding-top: 30px;
 }
 
 
@@ -160,9 +227,82 @@ li {
   padding-top: 10px;
   padding-bottom: 120px;
 }
+
 #fondo_contact{
   width: 100%;
   height: 300px;
   border-radius: 1%;
-   border-radius: 2%;
+  border-radius: 2%;
+}
+
+
+
+/* login */
+
+
+.form{
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formulario{
+  display: block;
+  justify-content: center;
+  border: solid 3px #0A0E17 ;
+  padding-top: 60px; 
+  padding-bottom: 60px;
+  padding-right: 80px;
+  padding-left:  80px;
+  margin-bottom: 70px;
+ border-radius: 35px;
+
+}
+
+.prueba{
+  display: flex;
+  justify-content: center;
+  border: solid 1px black;
+  padding-top: 60px; 
+ 
+}
+
+.prueba p{
+  display: flex;
+  justify-content: center;
+    
+ 
+}
+
+
+
+input {
+  display: flex;
+  font-size: 19px;
+  letter-spacing: normal;
+  border-radius: 7px;
+  margin-bottom: 17px;
+  margin: 10px;
+}
+button{
+  display: flex;
+  font-size: 19px;
+  padding: 4px;
+  margin-top: 20px;
+}
+p{
+
+  color: white;
+  width: 100%;
+}
+
+#sign{
+  display:block;
+  padding-top:30px;
+}
+span{
+
+  color: #3F60D9;
+  list-style-type: none;
+ 
 }
