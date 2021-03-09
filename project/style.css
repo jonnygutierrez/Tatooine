@@ -7,8 +7,8 @@
   text-align: left;
   color: white; 
 }
-/* phone*/
-@media screen and (max-width: 480px) and (min-height: 640px){
+
+@media screen and (max-width: 768px) and (min-width: 480px){
 .menu ul li a{
   display: inline-flex;
  }
@@ -19,25 +19,80 @@
 }
 .caja .ejemplos {
   display: inline-flex;
-  width: 100%;
-  height: 85%;
+  width: 85%;
+  height: 95%;
   text-align: center;
- 
 
  }
 .caja{
+	padding-top: 5px;
   display: inline-flex;
   flex-direction: column;
   align-items: center;
  }
 
+.productos{
+margin-top:60px; 
 
+ }
+
+
+.fondo1 .imagen_fondo1{
+  width: 70%;
+  height: 98px;
+  border-radius: 1%;  
+}
+.contacts .productos {
+padding-top: 35px;
+margin-top: 17px;
+}
+
+}
+
+
+/* --------*/
+
+@media screen and (max-width: 1024px) and (min-width: 769px){
+.menu ul li a{
+  display: inline-flex;
+ }
+.fondo .imagen_fondo{
+  width: 100%;
+  height: 400px;
+  border-radius: 1%;  
+}
+
+.cajas_productos .ejemplos {
+  width: 240px;
+  height:200px;
+  padding: 5px;  
+  padding-bottom: 20px;
+  padding-top:  20px;
+  border-radius: 16%;
+
+}
+
+.cajas_productos ul li , .productos{
+ font-size: 15px;
+}
+.cajas_productos {
+   padding: 95px;
+}
+
+.caja {
+ margin-top: -100px;
+padding-bottom: 0px;
+ 
+}
 
 
 
 
 }
 
+
+
+/* ----------*/
 
 .menu ul li {
 	display: inline-flex;
@@ -58,7 +113,6 @@ li:hover a {
   border-radius: 9%;
   font-weight: bolder;
   font-size: 17px;
-
   transition-property: all;
   transition-duration: 0.35s;
   transition-timing-function:ease;
@@ -71,30 +125,16 @@ li:hover a {
   text-transform: uppercase;
   text-decoration: none;
 }
-
-#login{
-  display: inline-flex;
-  color: white;
-  float: right;
-  font-size: 20px;
-  padding-top: 19px;
-
-}
-
-
-
 body {
   background-color: black;
-
 }
-
 .imagen_fondo {
+ 
   width: 100%;
-  height: 550px;
+  height: 600px;
   border-radius: 1%;
 
 }
-
 .ejemplos {
   display: inline-flex;
   width: 470px;
@@ -103,7 +143,6 @@ body {
   padding-bottom: 20px;
   padding-top:  20px;
   border-radius: 16%;
-
 }
 
 li {
@@ -117,19 +156,16 @@ li {
   padding: 30px;
   text-align: center;
   justify-content: center;
-  padding-bottom: 5px;
 }
 
 
 .titulos {
-  padding-bottom: 5px;
   padding: 13px;
   background: #0A0E17;
   text-align: center;
   font-size: 23px;
   color: white;
   border-radius: 15PX;
-  border-top: 15px;
   text-transform: uppercase;
   margin-top: 11px;
 }
@@ -140,8 +176,7 @@ li {
   float: none;
   font-size: 20px;
   color: white;
-margin-top: 20px;
-margin-bottom:70px;
+  margin-bottom:70px;
 }
 
 .text {
@@ -156,7 +191,6 @@ margin-bottom:70px;
   font-weight: bolder;
   height: 35px;
   padding-bottom: 20px;
-  padding-top: 40px;
   justify-content:center;
 
 
@@ -169,7 +203,6 @@ margin-bottom:70px;
   padding: 150px;
   justify-content: space-between;
   margin-bottom: 70px;
-  margin-top: 20px;
 
 }
 
@@ -177,7 +210,7 @@ margin-bottom:70px;
 /* FOOTER */
 .footer{
   padding-top: 130px;
-  display: block;
+  display: flex;
   margin-top: 200px;
   background:#0A0E17;
   width: 100%;
@@ -301,7 +334,6 @@ p{
   padding-top:30px;
 }
 span{
-
   color: #3F60D9;
   list-style-type: none;
  
