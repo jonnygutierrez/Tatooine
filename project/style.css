@@ -29,6 +29,7 @@ p{
 span{
   color: #3F60D9;
   list-style-type: none;
+
 }
 
 
@@ -48,7 +49,6 @@ span{
   transition-timing-function:ease;
   trasition-delay: 0.5s;
   width: 200px;
-
 }
 li:hover a {
   width: 200px;
@@ -78,10 +78,6 @@ li:hover a {
   height: 500px;
 }
 
-
-.cont_fondo{
-  border-top: solid 2px red;
-}
 . p{
 border:solid 2px red;
 }
@@ -538,6 +534,14 @@ li {
   display: flex;
   justify-content: space-between;
  }
+
+.footer{
+  display: flex;
+  flex-direction: column;
+
+
+}
+
 
 }
 
