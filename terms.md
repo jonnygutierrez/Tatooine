@@ -67,7 +67,6 @@ its a collection of web pages about a some topic.
 ## world wide web 
 
 its global net informatic, it's formed for millions of pages web, that are connecting. 
-
 ![www](https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png) 
 
 ---
