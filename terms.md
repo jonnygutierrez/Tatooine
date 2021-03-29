@@ -2,6 +2,7 @@
 
 ## browser:
 
+
 it's an part of web for find websites, is usin for navigating between websites 
 
 ![browser](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/04/Picture3-300x256.png) 
@@ -9,17 +10,13 @@ it's an part of web for find websites, is usin for navigating between websites
 ---
 
 ## DNS:
-
 it's a service for use names and not use ip address, is using for find websites
-
 ![DNS](https://cdn.searchenginejournal.com/wp-content/uploads/2018/10/shutterstock_781493554-760x400.png) 
 
 ---
 
-## Domain:
-
-it's the name of the page, is use like acces door, with the domain name we can find the website
-
+## Doma
+it's the name of the page, is use like acces door, with the domain name we can find the websit
 ![Domain](https://cdn.searchenginejournal.com/wp-content/uploads/2018/10/shutterstock_781493554-760x400.png) 
 
 ---
@@ -41,6 +38,7 @@ it's a numbers set that use for identify an device that can connecting in intern
 ---
 
 ## Web app:
+
 
 it's a sofware, is using in the browsers of internet, also can using in local network 
 

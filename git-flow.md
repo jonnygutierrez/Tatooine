@@ -8,6 +8,7 @@
 
 ## step 1
 the first step for a git flow is create a directory, and then clone in the repository, this do it in the terminal,  this is with the command. 
+the first step for a git flow is create a directory, and then clone in the repository, this do it in the terminal,  this is with the command 
 ``git clone + link of repository``
 
 
@@ -64,6 +65,9 @@ also we can write a message with the next command:
 ## step 10 
  in the terminal wait for watching the changes .
 
+ in the terminal wait for watching the changes 
+
+
 ---
 ## step 11
 then check the status with 
@@ -87,6 +91,11 @@ must write our account from github and our password.
 
 ## step 14
 then in git change from branch a develop, this is with the command.
+must write our account from github and our password
+---
+
+## step 14
+then in git change from branch a develop, this is with the command
 `` git checkout develop``
 
 ![git checkout ](https://static.javatpoint.com/tutorial/git/images/git-checkout.png) 
@@ -94,6 +103,7 @@ then in git change from branch a develop, this is with the command.
 
 ## step 15
 the write the command. 
+the write the command 
 `` git push origin develop ``
 ---
  
@@ -110,6 +120,7 @@ we must check that the base "develop" and compare with 01-git.
 
 ## step 18
 from github we create a pull request and then we do the merge pull request.
+from github we create a pull request and then we do the merge pull request
 
 and confirm the merge.
 
@@ -117,11 +128,13 @@ in the server we have the change in develop
 
 ## step 19
 when we do merge in develop must delete the branch in where did the first change.
+when we do merge in develop must delete the branch in where did the first change 
 ![merge](https://developers.sap.com/tutorials/webide-github-merge-pull-request/_jcr_content.github-proxy.1608398416.file/p6_4.png) 
 ---
 
 ## step 20
 then inside from terminal do a "pull", this with the command. 
+then inside from terminal do a "pull", this with the command 
 ``git pull origin develop  `` 
 ![github logo](https://64.media.tumblr.com/9fb0685ca9c513197d3be0f4fd186e12/tumblr_inline_ps7dd2ta811wthf4f_540.png) 
 ---
