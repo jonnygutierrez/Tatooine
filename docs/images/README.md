@@ -6,6 +6,6 @@
 
 ## wireframing
 
-![wireframing](wireframing.jpg) 
-![wireframing](wireframing2.jpg) 
+![wireframing](Wireframing.jpg) 
+![wireframing](Wireframing2.jpg) 
 
