@@ -1,4 +1,4 @@
-#markdown
+# markdown
 
 ![markdown logo](https://steemitimages.com/p/23KQwnti57stsAqnnuGSgQvsqnrBGS696BwcTskKKXwnfMwnYZq5azHQK6pxkKwqMdhuCF3c4fULo8paEEwaJi7oFySprPY?format=match&mode=fit&width=640) 
 
@@ -49,6 +49,4 @@ this are the differents types of tittle in markdown
 ![markdown logo](https://noesishosting.com/drive/platzi/markdown-platzi.png) 
 
 
-![markdown logo]() 
-![markdown logo]() 
-![markdown logo]() 
+	
