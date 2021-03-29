@@ -6,6 +6,7 @@
 ## Information Gathering
 the first step is about a information about collect information about the web site that we want 
 this step es the more important.
+
 ![information](https://www.erdalozkaya.com/wp-content/uploads/2019/06/info.jpg) 
 
 ---
@@ -45,8 +46,7 @@ in this step the web designer check the details
 ![testing](https://d3qb9p4s3wxczq.cloudfront.net/wp-content/uploads/testautomation1.png)
 
 ---
-## Maintenance
-																										
+## Maintenance																					
 in the last step just is about maintenance
 ![maintenance](https://cloudtalkusa.com/wp-content/uploads/2019/01/Website-Maintenance-Service-Plans.png)
 ---
