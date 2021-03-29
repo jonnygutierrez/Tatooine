@@ -4,15 +4,15 @@
 
 
 ## whats is markdown
-it's a lightweight markup language 
-it's like html, but markdown dont have labels, this does that anyone person can learning markdown easily
+it's a lightweight markup language.
+it's like html, but markdown dont have labels, this does that anyone person can learning markdown easily.
 
 
 --- 
 
 ## where is using markdown
 
-we can use markdown in github, also reddit, stackoverflow, also exist other websites where used this markup lenguage
+we can use markdown in github, also reddit, stackoverflow, also exist other websites where used this markup lenguage.
 
 ![github logo](https://miro.medium.com/max/2400/1*WaaXnUvhvrswhBJSw4YTuQ.png) 
 
@@ -25,28 +25,26 @@ we can use markdown in github, also reddit, stackoverflow, also exist other webs
 this lenguage using with tags in the text, for example in the header, we can use:
 
 ``#warkdown`` 
-this is like a "h1" in the html
+this is like a "h1" in the html.
 
 `` ##markdown``
-this like a "h2 "in the html
+this like a "h2 "in the html.
 
 `` ###markdown``
-this like a "h3 "in the html
+this like a "h3 "in the html.
 
 `` ####markdown``
-this like a "h4 "in the html
+this like a "h4 "in the html.
 
 `` #####markdown``
-this like a "h5 "in the html
+this like a "h5 "in the html.
 
-this are the differents types of tittle in markdown
+this are the differents types of tittle in markdown.
 
 ![markdown tags](https://i.blogs.es/eaff13/markdown-que-es-1/1366_2000.jpg) 
  
- in the picture show some tags that we must use for markdown
+ in the picture show some tags that we must use for markdown.
 
 ![markdown logo](https://noesishosting.com/drive/platzi/markdown-orig.png) 
 ![markdown logo](https://noesishosting.com/drive/platzi/markdown-platzi.png) 
 
-
-	

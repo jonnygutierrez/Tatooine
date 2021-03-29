@@ -2,10 +2,10 @@
 
 ## mapa de sitio
 
-![mapa de sitio](/home/jonh/Documentos) 
+![mapa de sitio](mapa.png) 
 
 ## wireframing
 
-![wireframing](/home/jonh/Documentos) 
-![wireframing](/home/jonh/Documentos) 
+![wireframing](Wireframing.jpg) 
+![wireframing](Wireframing2.jpg) 
 

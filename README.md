@@ -1,51 +1,64 @@
 
-----------------------commands--------------------------------------------------------------------
-local: 
-remote:this command it's used for create or delete conexions other repositorys
+## commands
+ 
+#### remote:
+this command it's used for create or delete conexions other repositorys
 
-init: this command it's used when is create 
+#### init: 
+this command it's used when is create 
  an new repositry 
 
-clone: this command from github it's  used when want clone an repository from gitub
+#### clone: 
+this command from github it's  used when want clone an repository from gitub
 
-add: this is the first command for add some changed in the repository 
+#### add:
+ this is the first command for add some changed in the repository 
 
-commit: this is the second command for add changed in the repository, is like an confirmation 
+#### commit:
+ this is the second command for add changed in the repository, is like an confirmation 
+ 
+#### push:
+this is the third command and the last that used for add some changed in the repository 
 
-push:this is the third command and the last that used for add some changed in the repository 
+#### pull:
+this command it's used when want to download files from a remote repository 
 
-pull:this command it's used when want to download files from a remote repository 
+#### merge:
 
-merge:this this command is for create a union to branch
+  this this command is for create a union to branch
 
----------------------phases of git hub------------------------------------------------------------
+---
+
+## phases from git hub
 
 
-
-untracked:
+### untracked:
 is that not have an register about the files 
-tracked:
+
+### tracked:
 is that this files are in procces for register, that have some chages  
-modified:
+
+
+### modified:
 is that this files are in modifications 
-stage: 
+
+
+### stage: 
 is an files that are save for a commit 
-commited: 
+
+
+### commited: 
 is a file that have a copy like backup
 
+---
 
-
-
-
-
-
----------------------what things should not be done inside github-------------------------------
+## what things should not be done inside github
 save a file in the branch master/main, cause first should save in the branch to develop,
 not revis the changeds.
 not revis where do merge the branchs
 
-
---------------------which is the year that should Mcfly return to restablish the timeline?---------
+---
+## which is the year that should Mcfly return to restablish the timeline?
 
 the year is for return is 1985
 
