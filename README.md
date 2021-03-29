@@ -29,7 +29,7 @@ this command it's used when want to download files from a remote repository
 
 ---
 
-## phases of git hub
+## phases from git hub
 
 
 ### untracked:
