@@ -31,7 +31,7 @@ this makes writing code
 
 ---
 
-##trim_automatic_white_space
+## trim_automatic_white_space
 
 this makes writing code faster, cause it does the work about delete the space 
 ![trim ](https://i0.wp.com/dailydotnettips.com/wp-content/uploads/2016/02/image41.png?w=640&ssl=1	) 
