@@ -35,7 +35,9 @@ it's a global net of computers of all world, this is use for exchange of informa
 
 ## IP address:
 
+
 it's a numbers set that use for identify an device that can connecting in internet
+
 ![ip](https://www.routerfreak.com/wp-content/uploads/2015/08/private-ip-address.png) 
 ---
 
