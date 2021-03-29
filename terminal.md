@@ -1,5 +1,6 @@
 
 ## what is the bash from linux
+
 the bash is the command interpreter, the bash recived information and do the proccess for return information, this is done inside from console.
 
 I understand that inside from console done the proccess for return information, this is a command interpreter, all is donde inside console
