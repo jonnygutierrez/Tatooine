@@ -23,8 +23,8 @@ this is the third command and the last that used for add some changed in the rep
 #### pull:
 this command it's used when want to download files from a remote repository 
 
-### merge:
-this this command is for create a union to branch
+#### merge:
+  this this command is for create a union to branch
 ---
 
 ## phases of git hub
