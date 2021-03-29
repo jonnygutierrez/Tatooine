@@ -11,7 +11,7 @@ this step es the more important.
 
 ## Planning
 in this step we have that create the site maps.
-the site maps is a list about the areas in the site web
+the site maps is a list about the areas in the site web.
 
 ![sitemap](https://mitchussey.files.wordpress.com/2011/11/website_sitemap.jpg) 
 --
