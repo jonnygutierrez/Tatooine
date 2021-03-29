@@ -2,7 +2,7 @@
 
 ## browser:
 
-it's an parte of web for find websites
+it's an part of web for find websites, is usin for navigating between websites 
 
 ![browser](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/04/Picture3-300x256.png) 
 
@@ -10,7 +10,7 @@ it's an parte of web for find websites
 
 ## DNS:
 
-it's a service for use names and not use ip address.
+it's a service for use names and not use ip address, is using for find websites
 
 ![DNS](https://cdn.searchenginejournal.com/wp-content/uploads/2018/10/shutterstock_781493554-760x400.png) 
 
@@ -18,7 +18,7 @@ it's a service for use names and not use ip address.
 
 ## Domain:
 
-it's the name of the page, is use like acces door
+it's the name of the page, is use like acces door, with the domain name we can find the website
 
 ![Domain](https://cdn.searchenginejournal.com/wp-content/uploads/2018/10/shutterstock_781493554-760x400.png) 
 
@@ -35,8 +35,7 @@ it's a global net of computers of all world, this is use for exchange of informa
 
 ## IP address:
 
-
-it's a numbers set that use for identify an device that can connecting in internet
+it's a numbers set that use for identify an device that can connecting in internet, with this number is posible identify in the internet
 
 ![ip](https://www.routerfreak.com/wp-content/uploads/2015/08/private-ip-address.png) 
 ---
@@ -67,7 +66,7 @@ its a collection of web pages about a some topic.
 
 ## world wide web 
 
-its global net informatic, it's formed for millions of pages web, that are connecting 
+its global net informatic, it's formed for millions of pages web, that are connecting. 
 
 ![www](https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png) 
 
