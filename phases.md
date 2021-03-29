@@ -1,6 +1,6 @@
 # 6 Phases of the Web Site Design and Development Process
 ![principal](https://cdn.searchenginejournal.com/wp-content/uploads/2019/12/5-ways-seo-web-design-go-together-5e2945dd5df37-760x400.png) 
-
+---
 
 
 ## Information Gathering
